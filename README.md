@@ -3,8 +3,9 @@
 This is simple and lightweight for MacOS or Linux terminal.
 
 Installation:
-'''
+
+```
 git clone https://github.com/RomanLivik/terminal-calendar.git
 cd terminal-calendar
 python3 calendar.py
-'''
+```
