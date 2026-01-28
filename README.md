@@ -6,8 +6,11 @@ This is simple and lightweight for MacOS or Linux terminal. It is ideal for cust
 Performance was tested on macos 26 tahoe and arch linux. Performance on other distributions is not guaranteed.
 
 ## You need this packages to run this script:
+
 **Arch:** base-devel
+
 **Debian:** build-essential
+
 **Fedora:** gcc-c++
 
 ### Installation:
