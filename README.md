@@ -2,13 +2,19 @@
 
 This is simple and lightweight for MacOS or Linux terminal. It is ideal for customizing your terminal or like a desktop widget. You can custom this calendar very easy. 
 
-Attention:
+### Attention:
 Performance was tested on macos 26 tahoe and arch linux. Performance on other distributions is not guaranteed.
 
-Installation:
+## You need this packages to run this script:
+**Arch:** base-devel
+**Debian:** build-essential
+**Fedora:** gcc-c++
+
+### Installation:
 
 ```
 git clone https://github.com/RomanLivik/terminal-calendar.git
 cd terminal-calendar
-python3 calendar.py
+g++ calendar.cpp -o calendar
+./calendar
 ```
