@@ -16,7 +16,7 @@ This is simple and lightweight for MacOS or Linux terminal. It is ideal for cust
 ### Installation of static calendar:
 
 ```
-git clone https://github.com/GadzhievAleksandr/terminal-calendar
+https://github.com/S0LYER/terminal-calendar
 cd terminal-calendar
 g++ calendar.cpp -o calendar
 ./calendar
@@ -25,7 +25,7 @@ g++ calendar.cpp -o calendar
 ### Installation of interactive calendar:
 
 ```
-git clone https://github.com/GadzhievAleksandr/terminal-calendar
+https://github.com/S0LYER/terminal-calendar
 cd terminal-calendar
 g++ terminal-calendar.cpp -o interactive-calendar
 ./interactive-calendar
