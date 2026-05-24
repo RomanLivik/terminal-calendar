@@ -2,8 +2,8 @@
 
 This is simple and lightweight for MacOS or Linux terminal. It is ideal for customizing your terminal or like a desktop widget. You can custom this calendar very easy. In this repository you can find 2 versions of calendar - static and interactive (with the up and down arrows for the year and the left and right arrows for the months). If you want to stop interactive calendar you should tap Ctrl+C.
 
-### Attention:
-Performance was tested on MacOS 26 Tahoe, MacOS Sonoma, Gentoo with openrc, arch and arch-based linux distributions. Performance on other distributions is not guaranteed. 
+> [!IMPORTANT]
+> Performance was tested on MacOS 26 Tahoe, MacOS Sonoma, Gentoo with openrc, arch and arch-based linux distributions. Performance on other distributions is not guaranteed. 
 
 ## You need this packages to run this script:
 
@@ -16,7 +16,7 @@ Performance was tested on MacOS 26 Tahoe, MacOS Sonoma, Gentoo with openrc, arch
 ### Installation of static calendar:
 
 ```
-git clone https://github.com/RomanLivik/terminal-calendar.git
+git clone https://github.com/GadzhievAleksandr/terminal-calendar
 cd terminal-calendar
 g++ calendar.cpp -o calendar
 ./calendar
@@ -25,7 +25,7 @@ g++ calendar.cpp -o calendar
 ### Installation of interactive calendar:
 
 ```
-git clone https://github.com/RomanLivik/terminal-calendar.git
+git clone https://github.com/GadzhievAleksandr/terminal-calendar
 cd terminal-calendar
 g++ terminal-calendar.cpp -o interactive-calendar
 ./interactive-calendar
